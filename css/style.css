@@ -159,6 +159,9 @@ p a:hover {
 	max-height: 35px;
 }
 
+.sample-link {
+}
+
 #body img.book-link {
 	display: block;
 	float: left;
